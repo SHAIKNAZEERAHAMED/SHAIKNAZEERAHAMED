@@ -17,7 +17,7 @@
 
   <!-- Profile Views Badge -->
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Nazeershaik098&label=Profile%20Views&color=0ea5e9&style=flat-square" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=SHAIKNAZEERAHAMED&label=Profile%20Views&color=0ea5e9&style=flat-square" alt="Profile Views" />
   </p>
 
 </div>
@@ -78,13 +78,13 @@ status: "🚀 Open for collaborative engineering & new opportunities"
 
   <!-- GitHub Main Stats Card & Top Languages Card -->
   <p align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nazeershaik098&show_icons=true&theme=onedark&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=e2e8f0&count_private=true" alt="GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nazeershaik098&layout=compact&theme=onedark&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=e2e8f0&langs_count=6" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SHAIKNAZEERAHAMED&show_icons=true&theme=onedark&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=e2e8f0&count_private=true" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHAIKNAZEERAHAMED&layout=compact&theme=onedark&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=e2e8f0&langs_count=6" alt="Top Languages" />
   </p>
 
   <!-- GitHub Streak Stats -->
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nazeershaik098&theme=onedark&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHAIKNAZEERAHAMED&theme=onedark&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
   </p>
 
 </div>
