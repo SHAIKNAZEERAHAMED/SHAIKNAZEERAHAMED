@@ -5,10 +5,11 @@
 
   <!-- Animated Typing SVG -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Software+Engineer;Building+Scalable+Web+%26+Cloud+Solutions;TypeScript+%7C+React+%7C+Node.js+%7C+Python;Passionate+about+Clean+Architecture" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%26+AIML+Undergrad;Building+Intelligent+Web+%26+AI+Applications;React+%7C+TypeScript+%7C+Python+%7C+Firebase+%7C+Supabase;Social+Media+Lead+%40+GDG+%7C+GSSoC+Contributor" alt="Typing SVG" />
   </a>
 
   <p align="center">
+    <a href="#-about-me"><strong>About Me</strong></a> •
     <a href="#-tech-stack"><strong>Tech Stack</strong></a> •
     <a href="#-featured-projects"><strong>Featured Projects</strong></a> •
     <a href="#-github-analytics"><strong>GitHub Analytics</strong></a> •
@@ -27,23 +28,24 @@
 ### 👨‍💻 About Me
 
 ```yaml
-name: Nazeer Ahmed
-role: Full Stack Software Engineer
+name: Sk Nazeer Ahamed
+role: Full-Stack Developer & AIML Undergraduate
+education: B.Tech in AIML, Vishnu Institute of Technology
 focus_areas:
-  - Scalable Web Applications & RESTful APIs
-  - Modern Frontend Architecture & Responsive UI/UX
-  - Cloud Services, Caching & Relational/NoSQL Databases
-core_values:
-  - Clean, Maintainable, and Self-Documenting Code
-  - Performance Optimization & High Availability
-  - Continuous Learning & Open Source Contribution
-status: "🚀 Open for collaborative engineering & new opportunities"
+  - Full-Stack Web Development & Modern Frontend Architecture
+  - AI/ML Integration, NLP (BERT, OpenAI) & Intelligent Systems
+  - Scalable Cloud Backends, Authentication & Real-time Databases
+leadership_and_community:
+  - Social Media & Content Creation Lead @ Google Developers Group (GDG 2024-25)
+  - Campus Ambassador & Contributor @ GirlScript Summer of Code (GSSoC'24 Ext)
+  - Smart India Hackathon (SIH) Participant
+status: "🚀 Open for collaborative software engineering & AI/ML opportunities"
 ```
 
-- 🔭 I’m currently building robust, production-grade applications using **Next.js**, **Node.js**, and **Python**.
-- 🌱 Actively exploring **Microservices Architecture**, **Event-Driven Systems**, and **Cloud-Native Deployment**.
-- 💬 Ask me about **Full-Stack Development**, **Database Optimization**, or **API Design**.
-- ⚡ Fun fact: *I believe great software is where rigorous engineering meets seamless user experience.*
+- 🔭 Building intelligent, scalable applications using **React.js**, **TypeScript**, **Python**, **Supabase**, and **Firebase**.
+- 🌱 Actively exploring **Applied Machine Learning**, **Sentiment Analysis**, and **Cloud-Native Architectures**.
+- 💬 Ask me about **Full-Stack Development**, **AI Integration**, or **UI/UX & Video Production**.
+- ⚡ Fun fact: *I bridge the gap between engineering and storytelling through code and content creation.*
 
 ---
 
@@ -51,7 +53,7 @@ status: "🚀 Open for collaborative engineering & new opportunities"
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,python,fastapi,django,postgres,mongodb,redis,mysql,git,docker,linux,postman&perline=9&theme=dark" alt="My Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,python,django,flutter,firebase,supabase,postgres,mongodb,mysql,docker,aws,git,github,postman,figma&perline=10&theme=dark" alt="My Tech Stack" />
   </a>
 </div>
 
@@ -63,12 +65,23 @@ status: "🚀 Open for collaborative engineering & new opportunities"
 
 | Category | Technologies & Tools |
 | :--- | :--- |
-| **🌐 Frontend & UI** | JavaScript (ES6+), TypeScript, React.js, Next.js, Tailwind CSS, HTML5, CSS3 |
-| **⚙️ Backend & APIs** | Node.js, Express.js, Python, FastAPI, Django, RESTful APIs, WebSockets |
-| **🗄️ Databases & Storage** | PostgreSQL, MongoDB, Redis (Caching), MySQL, Prisma ORM, Mongoose |
-| **🛠️ DevOps & Tooling** | Git, GitHub, Docker, Postman, Linux / Bash, CI/CD Actions |
+| **🌐 Frontend & Mobile** | JavaScript (ES6+), TypeScript, React.js, Next.js, Tailwind CSS, HTML5, CSS3, Flutter, React Native |
+| **⚙️ Backend & APIs** | Python, Django, Node.js, Express.js, RESTful APIs, WebSockets, Postman |
+| **🤖 AI & Machine Learning** | OpenAI APIs, BERT, Sentiment Analysis Models, Pandas, Data Processing |
+| **🗄️ Databases & Cloud** | Firebase, Supabase, PostgreSQL, MongoDB, MySQL, AWS Services, Docker, Git, GitHub |
+| **🎨 Creative & Media** | Figma (UI/UX), Video Editing, VFX, Content Creation, Script Writing |
 
 </details>
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **🤖 Looped** | Indian-tailored social media platform equipped with advanced AI features, real-time creator sentiment analysis, live messaging, LoopLinks, AI harassment monitoring for women's DMs, and BOB interactive AI assistant. | `React.js` `TypeScript` `OpenAI` `BERT` `Pandas` `Firebase` `Supabase` `Tailwind CSS` |
+| **🎬 Yernstudios** | Production web platform for clients to book media shoot slots and showcase agency portfolio work, featuring direct payment gateway integration, transparent client-agency communication, and user dashboards. | `React.js` `TypeScript` `Firebase` `Supabase` `Tailwind CSS` `Payment Gateway` |
+| **🏥 Asha Seva** | Healthcare digital platform connecting patients to local medical stores for direct prescription ordering, featuring three dedicated role-based portals for Doctors, Users, and Delivery Partners. | `React.js` `TypeScript` `Firebase` `Supabase` `Tailwind CSS` `Maps API` |
 
 ---
 
@@ -91,16 +104,6 @@ status: "🚀 Open for collaborative engineering & new opportunities"
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | Description | Tech Stack | Links |
-| :--- | :--- | :--- | :--- |
-| **🌐 Enterprise SaaS Dashboard** | Full-featured analytics platform with real-time data streaming, auth & role management. | `Next.js` `TypeScript` `PostgreSQL` `Tailwind` | [Live Demo](#) • [Repository](#) |
-| **⚡ High-Performance REST API** | Distributed backend service handling high-throughput transactional workflows with caching. | `FastAPI` `Python` `Redis` `PostgreSQL` | [Live Demo](#) • [Repository](#) |
-| **🛒 Modern E-Commerce Engine** | Scalable multi-vendor shop with Stripe checkout, inventory sync, and admin dashboard. | `React` `Node.js` `Express` `MongoDB` | [Live Demo](#) • [Repository](#) |
-
----
-
 ### 📫 Connect with Me
 
 <div align="center">
@@ -117,8 +120,8 @@ status: "🚀 Open for collaborative engineering & new opportunities"
     <img src="https://img.shields.io/badge/Portfolio-0284C7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   &nbsp;
-  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  <a href="https://youtube.com/@YernStudios" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
 
 </div>
@@ -126,5 +129,5 @@ status: "🚀 Open for collaborative engineering & new opportunities"
 <br/>
 
 <div align="center">
-  <sub>Built with ❤️ by Nazeer Ahmed • Styled for clean readability in both Dark & Light modes</sub>
+  <sub>Built with ❤️ by Sk Nazeer Ahamed • Styled for clean readability in both Dark & Light modes</sub>
 </div>
