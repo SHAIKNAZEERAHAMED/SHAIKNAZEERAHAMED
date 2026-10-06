@@ -33,8 +33,8 @@ role: Full-Stack Developer & AIML Undergraduate
 education: B.Tech in AIML, Vishnu Institute of Technology
 focus_areas:
   - Full-Stack Web Development & Modern Frontend Architecture
-  - AI/ML Integration, NLP (BERT, OpenAI) & Intelligent Systems
-  - Scalable Cloud Backends, Authentication & Real-time Databases
+  - Applied AI/ML integration and intelligent systems
+  - Full-stack applications, authentication and real-time databases
 leadership_and_community:
   - Social Media & Content Creation Lead @ Google Developers Group (GDG 2024-25)
   - Campus Ambassador & Contributor @ GirlScript Summer of Code (GSSoC'24 Ext)
@@ -53,7 +53,7 @@ status: "🚀 Open for collaborative software engineering & AI/ML opportunities"
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,python,django,flutter,firebase,supabase,postgres,mongodb,mysql,docker,aws,git,github,postman,figma&perline=10&theme=dark" alt="My Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,python,firebase,supabase,postgres,mongodb,docker,git,github,figma&perline=10&theme=dark" alt="My Tech Stack" />
   </a>
 </div>
 
@@ -77,11 +77,12 @@ status: "🚀 Open for collaborative software engineering & AI/ML opportunities"
 
 ### 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
+| Project | Verified focus | Stack |
 | :--- | :--- | :--- |
-| **🤖 Looped** | Indian-tailored social media platform equipped with advanced AI features, real-time creator sentiment analysis, live messaging, LoopLinks, AI harassment monitoring for women's DMs, and BOB interactive AI assistant. | `React.js` `TypeScript` `OpenAI` `BERT` `Pandas` `Firebase` `Supabase` `Tailwind CSS` |
-| **🎬 Yernstudios** | Production web platform for clients to book media shoot slots and showcase agency portfolio work, featuring direct payment gateway integration, transparent client-agency communication, and user dashboards. | `React.js` `TypeScript` `Firebase` `Supabase` `Tailwind CSS` `Payment Gateway` |
-| **🏥 Asha Seva** | Healthcare digital platform connecting patients to local medical stores for direct prescription ordering, featuring three dedicated role-based portals for Doctors, Users, and Delivery Partners. | `React.js` `TypeScript` `Firebase` `Supabase` `Tailwind CSS` `Maps API` |
+| **Aegis V2 Privacy Pipeline** | Privacy-preserving video processing research MVP with FastAPI/OpenCV/FaceNet/PyTorch and a Next.js frontend. | FastAPI, Python, OpenCV, PyTorch, FaceNet, Next.js |
+| **GraphDB Benchmark** | Reproducible benchmark harness comparing graph database platforms with controlled workloads and latency percentiles. | Python, Neo4j, Memgraph, FalkorDB, ArangoDB |
+| **LoopedCSS** | Social platform codebase with authentication, feed, messaging, profiles, moderation, notifications and creator features. | Next.js, React, TypeScript, Firebase |
+| **Yernstudios** | React/TypeScript agency website using Vite, Tailwind, shadcn/ui and Supabase. | React, TypeScript, Vite, Supabase |
 
 ---
 
