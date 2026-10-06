@@ -82,7 +82,7 @@ status: "🚀 Open for collaborative software engineering & AI/ML opportunities"
 | **Aegis V2 Privacy Pipeline** | Privacy-preserving video processing research MVP with FastAPI/OpenCV/FaceNet/PyTorch and a Next.js frontend. | FastAPI, Python, OpenCV, PyTorch, FaceNet, Next.js |
 | **GraphDB Benchmark** | Reproducible benchmark harness comparing graph database platforms with controlled workloads and latency percentiles. | Python, Neo4j, Memgraph, FalkorDB, ArangoDB |
 | **LoopedCSS** | Social platform codebase with authentication, feed, messaging, profiles, moderation, notifications and creator features. | Next.js, React, TypeScript, Firebase |
-| **Yernstudios** | React/TypeScript agency website using Vite, Tailwind, shadcn/ui and Supabase. | React, TypeScript, Vite, Supabase |
+| **Yernstudios** | React/TypeScript agency website using Vite, Tailwind, shadcn/ui and Supabase. [Live site](https://yernstudios.netlify.app/) | React, TypeScript, Vite, Supabase |
 
 ---
 
